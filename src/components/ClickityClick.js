@@ -2,7 +2,7 @@
 
     import React from 'react';
      
-    class LightSwitch extends React.Component {
+    class ClickityClick extends React.Component {
       constructor() {
         super();
      
